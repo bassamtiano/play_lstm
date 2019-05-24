@@ -1,4 +1,7 @@
 import numpy
 
 def trying():
-    print("test")
+    a = "test"
+    print(a)
+
+trying()
